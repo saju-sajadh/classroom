@@ -1,0 +1,6 @@
+__pycache__
+.env
+output
+data_proc
+src/githubs
+src/source_images3
